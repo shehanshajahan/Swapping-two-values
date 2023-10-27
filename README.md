@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 # Program to swap two values.
 # Developed by: Shehan Shajahan 
-# RegisterNumber: 23008724
+# Register Number: 23008724
 ~~~
 a=float(input())
 b=float(input())
